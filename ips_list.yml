@@ -19,6 +19,6 @@
 #
 
 common_cells:
-  commit: master
+  commit: A2-v0.0
 axi:
-  commit: master
+  commit: A2-v0.0
